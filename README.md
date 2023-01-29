@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,4 +68,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 "# just-created-for-Git-commands" 
+"# just-created-for-Git-commands" 
+=======
+# Amazon-Clone
+This is basically a clone of amazon website with accounts and login page, product page , cart and         checkout Page and real payments methods using react js.
+>>>>>>> 8f155fb80098eff91e5e938a30fae51816a736e0
 "# just-created-for-Git-commands" 
